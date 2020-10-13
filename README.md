@@ -1,4 +1,3 @@
-# machine_learning
 ["Cognitive Class AI"](https://cognitiveclass.ai/) 
 
 ["Machine Learning with Python"](https://cognitiveclass.ai/courses/machine-learning-with-python)
