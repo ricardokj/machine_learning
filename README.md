@@ -17,6 +17,8 @@ More important, you will transform your theoretical knowledge in to practical sk
 
 Get ready to do more learning than your machine!
 Course Syllabus
+
+
 Module 1 - Introduction to Machine Learning
 
     Applications of Machine Learning
